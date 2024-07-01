@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437355148341",
+    "project_id": "friendorfoe-18cc3",
+    "storage_bucket": "friendorfoe-18cc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437355148341:android:15e68c6efa7c5d75bead7c",
+        "android_client_info": {
+          "package_name": "com.millenium.friendorfoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TJEjW14Q27cG4mRvlENzH6df68ENrMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
